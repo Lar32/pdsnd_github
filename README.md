@@ -18,3 +18,8 @@ washington.csv
 ### Credits
 https://knowledge.udacity.com/?nanodegree=nd104&page=1&project=328&rubric=1379&sort=SCORE
 
+Additional sources:
+https://stackoverflow.com/questions/10565217/do-you-push-every-single-commit
+
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
+
