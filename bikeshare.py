@@ -64,6 +64,7 @@ def get_filters():
  
    
 def load_data(city, month, day):
+    #Applies user's city, month, day selection to bikeshare stats data
     """
     Loads data for the specified city and filters by month and day if applicable.
 
@@ -203,6 +204,7 @@ def more_data(df):
     return df
 
 
+# Asking if the user would like to restart
 def main():
     while True:
         city, month, day = get_filters()
