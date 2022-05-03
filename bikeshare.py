@@ -1,7 +1,6 @@
 import time
 import pandas as pd
 import numpy as np
-import calendar
 
 cities = ['Chicago', 'New York City', 'Washington'] 
 months = ['jan', 'feb', 'mar', 'apr', 'may', 'jun', 'all']   
